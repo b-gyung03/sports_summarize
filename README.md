@@ -19,6 +19,6 @@
 ## 🚀 실행 방법 (Google Colab)
 
 1.  이 GitHub 리포지토리의 `.ipynb` 파일을 다운로드하여 Google Colab에서 엽니다.
-2.  **[Cell 4]**을 실행하여 필요한 라이브러리를 설치하고, `YOUR_API_KEY_HERE` 부분에 본인의 Google AI Studio API 키를 입력합니다.
-3.  **[Cell 7]**를 실행하고, 분석을 원하는 경기 이미지 파일(들)을 업로드합니다.
-4.  **[Cell 9]**을 실행하면, AI가 이미지를 분석하여 최종 `JSON` 결과를 출력합니다.
+2.  필요한 라이브러리를 설치하고, `YOUR_API_KEY_HERE` 부분에 본인의 Google AI Studio API 키를 입력합니다.
+3.  분석을 원하는 경기 이미지 파일(들)을 업로드합니다.
+4.  AI가 이미지를 분석하여 최종 `JSON` 결과를 출력합니다.
